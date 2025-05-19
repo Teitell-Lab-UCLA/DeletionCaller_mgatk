@@ -87,4 +87,4 @@ If you use this tool in your research, please cite:
 
 ## Contact
 
-For questions or support, please contact [eainthoneyaungwin@mednet.ucla.edu]
+For questions or support, please contact [bpeng01@g.ucla.edu/eainthoneyaungwin@mednet.ucla.edu]
