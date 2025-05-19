@@ -33,7 +33,7 @@ mtDNA IndelCaller requires the following input files:
 ## Usage
 
 ```R
-source("deletionCaller.R")
+source("DeletionCaller.R")
 
 results <- DeletionDetection(
   sample = "your_sample_name",
