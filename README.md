@@ -45,6 +45,10 @@ results <- DeletionDetection(
 )
 ```
 
+### Run Time 
+
+mtDNA DeletionCaller will take approximately 10-15 mins to run. 
+
 ### Output
 
 The function returns a list containing two data frames:
